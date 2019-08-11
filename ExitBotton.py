@@ -1,5 +1,5 @@
-from Tkinter import Tk, BOTH
-from ttk import Frame, Button, Style
+from tkinter import Tk, BOTH, Frame, Button
+from tkinter.ttk import Style
 
 
 class Example(Frame):
